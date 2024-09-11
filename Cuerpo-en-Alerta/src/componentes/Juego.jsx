@@ -94,5 +94,5 @@ return (
     </>
 );
 }
-
+ 
 export default Juego;

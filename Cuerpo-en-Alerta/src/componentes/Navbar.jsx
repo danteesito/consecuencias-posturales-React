@@ -28,7 +28,7 @@ function App() {
                 </li>
                 <li className="nav-item">
                   <a className="nav-link" href="/juego">Juego</a>
-                </li>
+                </li> 
               </ul>
             </div>
           </div>
