@@ -101,7 +101,7 @@ body {
 .images img {
     display: block;
     margin-bottom: 20px;
-    width: 100%;
+    width: 50%;
     height: auto;
     border-radius: 10px;
     cursor: pointer;
