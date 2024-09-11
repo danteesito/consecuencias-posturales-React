@@ -18,7 +18,7 @@ function Principal() {
         <h2>Cifosis:</h2>
         <p>La cifosis es una curvatura exagerada hacia adelante en la parte superior de la columna vertebral, lo que provoca una postura encorvada o jorobada. En condiciones normales, la columna tiene curvas naturales que ayudan a absorber los impactos y soportar el peso del cuerpo. Aunque, en la cifosis, esta curvatura es excesiva y puede provocar dolor, incomodidad y problemas estéticos.</p>
     </section>
-    <section class="info">
+    <section class="info"> 
         <h2>Lordosis:</h2>
         <p>La lordosis es una curvatura exagerada hacia adentro de la columna vertebral, principalmente en la región lumbar. Todas las personas tienen cierta lordosis natural en la columna, que es necesaria para mantener el equilibrio y absorber los impactos. Sin embargo, cuando esta curva se vuelve excesiva, puede generar problemas como dolor de espalda, postura anormal y complicaciones relacionadas con los nervios y músculos.</p>
     </section>

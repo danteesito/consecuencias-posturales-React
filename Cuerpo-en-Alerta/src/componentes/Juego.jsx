@@ -13,10 +13,10 @@ const [texts, setTexts] = useState([]);
 useEffect(() => {
     const imgArray = [
     { id: 'img1', src: 'Escoliosis.png', alt: 'Escoliosis', value: 1 },
-    { id: 'img2', src: 'cifosis.jpg', alt: 'Cifosis', value: 2 },
-    { id: 'img3', src: 'lordosis.png', alt: 'Lordosis', value: 3 },
-    { id: 'img4', src: 'lumbalgia.png', alt: 'Lumbalgia', value: 4 },
-    { id: 'img5', src: 'hiperlordosis.png', alt: 'Hiperlordosis', value: 5 }
+    { id: 'img2', src: 'Cifosis.jfif', alt: 'Cifosis', value: 2 },
+    { id: 'img3', src: 'Lordosis.jpg', alt: 'Lordosis', value: 3 },
+    { id: 'img4', src: 'Lumbalgia.jfif', alt: 'Lumbalgia', value: 4 },
+    { id: 'img5', src: 'Hiperlordosis.png', alt: 'Hiperlordosis', value: 5 }
     ];
 
     const txtArray = [

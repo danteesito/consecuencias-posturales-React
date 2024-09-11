@@ -14,13 +14,17 @@ body {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     justify-content: center;
     color: white;
+    margin-bottom: 20px;
 }
+
 .custom-navbar{
     background-color: black;
 }
+
 .titulo{
     color: black;
 }
+
 .ImgLogo {
     width: 12%;
     height: 12%;
@@ -45,7 +49,6 @@ body {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-
 .container {
     display: flex;
     justify-content: space-around;
@@ -53,6 +56,7 @@ body {
     margin-top: 50px;
     position: relative;
 }
+
 .footer {
     background-color: #ffffff; 
     color: rgb(0, 0, 0);
@@ -67,41 +71,28 @@ body {
 }
 
 .container-footer {
-        text-align: center;
-        font-size: 24px;
-        color: #000000
-    
-}
-
-.draggable {
-    width: 100px;
-    margin: 10px;
-    cursor: grab;
-}
-
-.droppable {
-    padding: 20px;
-    margin: 10px;
-    border: 2px dashed #ccc;
     text-align: center;
-    min-height: 50px;
-    background-color: #f8f9fa;
+    font-size: 24px;
+    color: #000000;
 }
 
 .game-container {
     display: flex;
     justify-content: space-between;
     padding: 20px;
+    margin-top: 30px;
 }
 
 .images, .texts {
+    display: flex;
+    flex-direction: column;
     width: 45%;
 }
 
 .images img {
     display: block;
     margin-bottom: 20px;
-    width: 50%;
+    width: 40%;
     height: auto;
     border-radius: 10px;
     cursor: pointer;
